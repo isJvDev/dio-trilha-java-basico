@@ -1,2 +1,2 @@
 # métodos
-## Praticando métodos, classes e objetos com um simulador de Smartv.
+## Praticando métodos, classes e objetos com um simulador de SmartTv.
