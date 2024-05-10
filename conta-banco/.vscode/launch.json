@@ -6,22 +6,23 @@
     "configurations": [
         {
             "type": "java",
-            "name": "DadosScanner",
+            "name": "Exemplo",
             "request": "launch",
-            "mainClass": "DadosScanner",
-            "projectName": "java-scanner_e98e94aa"
+            "mainClass": "Exemplo",
+            "projectName": "conta-banco_514ae2a6"
         },
         {
             "type": "java",
-            "name": "DadosPessoais",
+            "name": "Current File",
             "request": "launch",
-            "mainClass": "DadosPessoais",
-            "args": [
-                "Joao Vitor",
-                "Evangelista",
-                "27",
-                "1.89"
-            ]
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "conta-banco_514ae2a6"
         }
     ]
 }
