@@ -1,0 +1,4 @@
+# 📄Projeto iPhone 📄
+## 🔷 Praticando conceito de herança, interface e implements com um projeto de iPhone.
+## 🔷 O iPhone quando foi lançado em 2007 trouxe a novidade de acoplar em um só dispositivo um tocador de música (iPod), um navegador de internet igual a um de desktop, algo que era novidade na época, e as funcionalidades de um celular (atender e ligar), mas com a novidade de ter um correio de voz gerenciavél igual a uma caixa de e-mail, podendo selecionar a mensagem de sua escolha para ouvir.
+## Link para o diagrama do código: https://lucid.app/lucidchart/c626b5ba-c67e-4965-bfef-99ce9f8cc00e/edit?invitationId=inv_374bad3e-c4f7-4eb0-b007-00a55f6a957f
